@@ -1,0 +1,10 @@
+server:
+  port: 8095
+
+info:
+  component: Spring Kafka Producer
+ 
+kafka:
+  bootstrap-servers: localhost:9092
+  topic:
+    helloworld: helloworld.t
